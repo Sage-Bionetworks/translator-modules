@@ -4,7 +4,7 @@ scipy>=1.2.1
 mvp-module-library
 ontobio
 mygene==3.1.0
-numpy==1.16.1
+numpy==1.22.0
 typing>=0.0
 graphviz
 html3
